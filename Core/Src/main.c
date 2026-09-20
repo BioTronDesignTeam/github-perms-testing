@@ -61,6 +61,7 @@ const osThreadAttr_t defaultTask_attributes = {
   .stack_size = 128 * 4,
   .priority = (osPriority_t) osPriorityNormal,
 };
+//fdusfsduofdsiufdiou kakaaakhfuehkjdh
 /* USER CODE BEGIN PV */
 
 /* USER CODE END PV */
